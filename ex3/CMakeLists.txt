@@ -1,5 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
 
+include(${CMAKE_CURRENT_SOURCE_DIR}/compile_options.cmake)
+
 set(SYSTEM_PROCESSOR cortex-m33)
 set(SYSTEM_ARCHITECTURE armv8-m.main)
 set(SYSTEM_DSP OFF)
