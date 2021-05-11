@@ -1,5 +1,4 @@
 Cmake beginner tutorial.
-Instead of adding subdirectory as library, it includes them as sources
 
 Top level file:
 
